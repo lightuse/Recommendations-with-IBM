@@ -5,6 +5,10 @@
 3. [Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
+This project requires Python 3.11 and the following Python libraries installed:
+- [Nltk](https://www.nltk.org/)
+- [Pandas](http://pandas.pydata.org)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
 ## File Descriptions <a name="files"></a>
 
