@@ -6,6 +6,8 @@
 
 ## Installation <a name="installation"></a>
 This project requires Python 3.11 and the following Python libraries installed:
+
+- [Numpy](https://www.numpy.org/)
 - [Nltk](https://www.nltk.org/)
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
